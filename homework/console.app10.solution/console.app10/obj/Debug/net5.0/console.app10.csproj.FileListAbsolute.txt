@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.exe
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.deps.json
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.runtimeconfig.json
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.dll
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\ref\console.app10.dll
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\bin\Debug\net5.0\console.app10.pdb
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.AssemblyInfo.cs
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.dll
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\ref\console.app10.dll
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.pdb
+C:\Users\Admin\Desktop\p412\homework\console.app10.solution\console.app10\obj\Debug\net5.0\console.app10.genruntimeconfig.cache

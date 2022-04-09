@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.exe
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.deps.json
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.runtimeconfig.json
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.dll
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\ref\homework3.2.dll
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\bin\Debug\net5.0\homework3.2.pdb
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.AssemblyInfo.cs
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.dll
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\ref\homework3.2.dll
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.pdb
+C:\Users\Admin\Desktop\p412\homework\homework3.solution\homework3.2\obj\Debug\net5.0\homework3.2.genruntimeconfig.cache
