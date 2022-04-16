@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.exe
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.deps.json
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.runtimeconfig.json
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.dll
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\ref\demo.dll
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\bin\Debug\net5.0\demo.pdb
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.dll
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\ref\demo.dll
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.pdb
+C:\Users\Admin\Desktop\p412\homework\demo.solution\demo\obj\Debug\net5.0\demo.genruntimeconfig.cache

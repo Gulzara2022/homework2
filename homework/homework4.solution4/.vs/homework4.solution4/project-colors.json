@@ -5,7 +5,12 @@
       "ProjectGuid": "5bc71c42-559f-49f9-94ee-baac2cced6f0",
       "DisplayName": "homework4",
       "ColorIndex": 0
+    },
+    "c8288cca-8467-489e-894b-c6be525ed263": {
+      "ProjectGuid": "c8288cca-8467-489e-894b-c6be525ed263",
+      "DisplayName": "homework4",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

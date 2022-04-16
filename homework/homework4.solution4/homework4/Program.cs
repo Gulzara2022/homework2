@@ -5,49 +5,263 @@ namespace homework4
     internal class Program
     {
         static void Main(string[] args)
-        // region  //Task2//1-1000 qeder ededlerin icerisinden ele ededleri cap etki :
-        //hem polindrom olsun,
-        //hem ededin reqemleri daxilinde 3 olmasin
-        //hem ededin reqemleri cemi 10 dan boyuk olsun//
         {
-            //            int sum = 0;
-            //            int n = 0;
-            //            int r = 0;
-            //;
-            //            Console.Write("enter number: ");
-            //            int.Parse(Console.ReadLine());
+            #region Task1
+            // 1-1000 qeder CUT ederlerin icerisinde reqemleri cemi 5 ile 7 arasinda olan en boyuk eded hansidir?
+            //int sum = 0;
+            //int number = 0;
+            //for (int i = 2; i <= 1000; i++)
+            //{
+            //    if (i%2==0)
+            //    {
+            //        int a = i;
+            //        while (a!=0)
+            //        {
+            //            sum += a % 10;
+            //            a /= 10;
 
-            //             while (n>0)
+            //        }
+            //        if (sum==6)
+            //        {
+            //            number = i;
+            //        }
+
+            //    }
+            //    sum = 0;
+
+            //}
+            //Console.WriteLine($"axtarilan eded = {number}");
+
+
+
+
+            #endregion
+
+            #region Task2
+            // 1 - 1000 qeder ederlerin icerisinden ele ededleri cap etki:
+            //  hem polindrom olsun,
+            //hem ededin reqemleri daxilinde 3 olmasin
+            //hem ededin reqemleri cemi 10 dan boyuk olsun
+
+            //for (int i = 1; i < 1000; i++)
+            //{
+            //   int a = i; int sum1 =0; int b; int sum2 = 0; int eded;
+            //    while (a > 0)
+            //    {
+            //        b = a % 10;
+            //        sum1 = (sum1 * 10) + b;
+            //        sum2 = sum2 + b;
+            //        a = a / 10;
+
+            //    }
+
+            //    if (sum2 > 10 && i == sum1 && i / 100 != 3 &&  i % 10 != 3 && i % 100 / 10 !=3 )
+            //    {
+            //        eded = i;
+            //        Console.WriteLine(eded);
+            //    }
+
+            //}
+
+            #endregion
+
+            #region task3
+
+            ////3) 1 - 100000 qeder ederlerin icerisinden ele ededleri cap etki:
+            ////hem butun reqemleri eyni olsun,
+            ////hem reqemleri cemi 5 den boyuk olsun
+            ////hem reqemleri arasinda 5 reqemi olmasin//
+            //int numb;
+            //int sum;
+            //int last;
+            //bool state;
+            //bool success;
+            //int temp2;
+
+            //int temp;
+            //for (int i = 1; i < 100000; i++)
+            //{   numb = i;
+            //    last = i % 10;
+            //    state = false;
+
+            //    while (numb>0)
+            //    {
+            //        if (numb%10 != last)
+            //        {
+            //            state = true;
+            //            break;
+            //        }
+            //        numb=numb/10;
+
+            //    }
+            //    if (state==false)
+            //    {
+            //       sum = 0;
+            //       temp = i;
+            //        while (temp>0)
+            //        {
+            //            sum=sum+(temp%10);
+            //            temp=temp/10;
+
+            //        }
+            //        if (sum>5)
+            //        {
+            //            success = false;
+            //            temp2 = i;
+            //            while (temp2>0)
             //            {
-            //                r = n % 10;
-            //                sum=(sum*10)+r;
-            //                r= n % 10;  
+            //                if (temp2%10==5)
+            //                {   
+            //                    state = true;
+            //                    break;
+
+            //                }
+            //                temp2=temp2/10;
 
             //            }
-            //            if (!( n < 1000 && n > 1)) 
+            //            if (state==false)
             //            {
-            //                Console.WriteLine("number is not found"); }
+            //                Console.WriteLine(i);
 
-            //            else if (r==sum)
-            //            {
-            //                    Console.WriteLine("number is polindrom");
             //            }
-            //            else
-            //            {
-            //                Console.WriteLine("number is not polindrom");
-            //            }
-            //endregion
+            #endregion
 
-           //region //task 3  1-100000 qeder ededlerin icerisinden ele ededleri cap etki :
-            //hem butun reqemleri eyni olsun,
-            //hem reqemleri cemi 5 den boyuk olsun
-            //hem reqemleri arasinda 5 reqemi olmasin// 
-            int n = 0;
-            int sum = 0;
-            Console.Write("enter number");
-            int.Parse(Console.ReadLine());
-             
+            #region Task4
+            //1 - 1000 qeder ederlerin icerisinde
+            //11 - e bolunub reqemleri cemi 11 - den boyuk olan 11 - ci eded hansidir?
+            //int num ;
+            //int sum;
+            //for (int i = 1; i < 1000; i++)
+            //{
+
+            //    if (i % 11 == 0)
+            //    {
+            //        num = i;
+            //        sum = 0;
+            //        while (num > 0)
+            //        {
+            //            sum = sum + (num % 10);
+            //            num = num / 10;
+            //        }
+            //        if (sum > 11)
+            //        {
+            //            Console.WriteLine(i);
+            //        }
+
+            //    }
+            //}
+
+            #endregion
+
+            #region Task5
+            //Her hansi bir eded daxil et.
+            //Eger eded polindromdursa o zaman bu ededin evveline ve axirin 1 reqemini artir ve cap et.
+            //Eks halda ededin ozunu cap et.polindrom eded:  123321; 12321--guzgu effekti
+            //int a = 979;
+            //int b = a;
+            //int num = 0;
+            //int remain;
+            //while (a > 0)
+            //{
+            //    remain = a % 10;
+            //    a = a / 10;
+            //    num = num * 10 + remain;
+
+            //}
+            //if (num == b)
+            //{
+            //    num = num * 10 + 1;
+            //    while (num > 0)
+            //    {
+            //        remain = num % 10;
+            //        num = num / 10;
+            //        a = a * 10 + remain;
+
+            //    }
+            //    a = a * 10 + 1;
+            //    Console.WriteLine($"eded polidromdur: {a}");
+            //}
+            //else
+            //{
+            //    Console.WriteLine($"{b} ededi polidrom deyil ");
+            //}
+
+            #endregion
+
+            #region task6
+            ////task6
+            //// Her hansi bir eded daxil et.
+            ////   Bu ededin daxilinden 5 ve 7 reqemlerini legv et.
+            ////Neticenin I ve Sonuncu reqemlerini deyishib cap et.
+            ////   Alinan cavabin icerisinde nece dene tek reqem oldugunu yaz.//
+
+            //int num = 1234567;
+            //int number = 0;
+            //int remain;
+            //int firstNum;
+            //int lastNum;
+            //int counter = 0;
+            //while (num>0)
+            //{
+            //    remain = num % 10;
+            //    num /= 10;
+            //    if (remain % 10 != 5 && remain % 10 != 7)
+            //    {
+            //        number = number * 10 + remain;
+            //    }
+            //}
+            // firstNum = number % 10; 
+
+            //while (number>0)
+            //{   remain = number % 10;
+            //    number /= 10;
+            //    num = num * 10 + remain;
+            //} 
+            // lastNum = num % 10;
+            // num /= 10;
+            // num = num * 10 + firstNum; 
+            //while (num>0)
+            //{
+            //    remain = num % 10;
+            //    num/=10;
+            //    number = number * 10 + remain;
+
+            //} 
+            //number /= 10;
+            //number = number * 10 + lastNum;
+            //while (number> 0)
+            //{
+            //    remain = number % 10;
+            //    number /= 10;
+            //    num = num * 10 + remain;
+
+            //}
+            //Console.Write($"{num} reqeminde ");
+            //while (num>0)
+            //{
+            //    remain = num % 10;
+            //    if (remain%2==1)
+            //    {
+            //        counter++;
+            //    }
+            //    num /= 10;
+            //}
+            //Console.WriteLine($"{counter}eded tek reqem var");
+            #endregion
+
             
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -58,10 +272,25 @@ namespace homework4
 
         }
 
-            
-            }
 
 
 
-        }
-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+}
